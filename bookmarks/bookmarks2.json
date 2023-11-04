@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Learning",
+        "children": [
+            {
+                "title": "Courses",
+                "url": "https://courses.example.com"
+            },
+            {
+                "title": "Languages",
+                "url": "https://languages.example.com"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Work",
+      "children": [
+        {
+          "title": "Email",
+          "url": "https://mail.example.com"
+        },
+        {
+          "title": "Docs",
+          "children": [
+            {
+              "title": "Specs",
+              "url": "https://specs.example.com"
+            },
+            {
+              "title": "Reports",
+              "url": "https://reports.example.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
