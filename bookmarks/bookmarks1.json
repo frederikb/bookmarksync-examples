@@ -1,4 +1,6 @@
-[
+{
+  "name": "Bookmarks 1",
+  "bookmarks": [
     {
       "title": "Work",
       "children": [
@@ -22,3 +24,4 @@
       ]
     }
   ]
+}

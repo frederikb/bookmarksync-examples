@@ -1,6 +1,9 @@
-[
-    {
-        "title": "Home",
-        "url": "https://example.com"
-    }
-]
+{
+    "name": "Bookmarks 3",
+    "bookmarks": [
+        {
+            "title": "Home",
+            "url": "https://example.com"
+        }
+    ]
+}
