@@ -16,6 +16,9 @@
               "url": "https://specs.example.com"
             },
             {
+            	"type": "separator"
+            },
+            {
               "title": "Reports",
               "url": "https://reports.example.com"
             }
